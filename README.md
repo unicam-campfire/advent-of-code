@@ -9,7 +9,7 @@
 
 Se non conosci come funziona GitHub inizia con il guardare un paio di tutorial:
 
-- [Basic GitHub](https://www.youtube.com/results?search_query=github+guide)
+- [GitHub Basics](https://www.youtube.com/results?search_query=github+guide)
 - [GitHub Desktop](https://www.youtube.com/results?search_query=github+desktop+tutorial)
 - [GitHub Issue](https://www.youtube.com/results?search_query=github+issue)
 
