@@ -7,12 +7,11 @@
 
 ## Se vuoi condividere il codice con tutti
 
-Prima di iniziare se non conosci come funziona GitHub ecco un paio di tutorial:
+Prima di iniziare se non conosci come funziona GitHub inzia da qui
 
-- [Video tutorial su come utilizzare GitHub](https://www.youtube.com/results?search_query=Github+guide).
+- [Come utilizzare GitHub](https://www.youtube.com/results?search_query=github+guide).
 - [GitHub Desktop](https://www.youtube.com/results?search_query=github+desktop+tutorial).
-- [Come creare una Pull Request](https://www.youtube.com/results?search_query=github+pull+request).
-- [Pull Request con GitHub Desktop](https://www.youtube.com/results?search_query=github+desktop+pull+request)
+- [GitHub Issue](https://www.youtube.com/results?search_query=github+issue)
 
 Utilizziamo il metodo più semplice e meno faticoso. Le Pull Request erano un opzione ma sono difficili da gestire se poi sono tante.
 
