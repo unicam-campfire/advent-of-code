@@ -5,6 +5,8 @@
 - Puzzle: [Advent Of Code](http://adventofcode.com)
 - Chat: [Gitter](https://gitter.im/unicam-campfire/advent-of-code?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
 
+## Se vuoi condividere il codice con tutti
+
 Prima di iniziare se non conosci come funziona GitHub ecco un paio di tutorial:
 
 - [Video tutorial su come utilizzare GitHub](https://www.youtube.com/results?search_query=Github+guide).
@@ -12,10 +14,7 @@ Prima di iniziare se non conosci come funziona GitHub ecco un paio di tutorial:
 - [Come creare una Pull Request](https://www.youtube.com/results?search_query=github+pull+request).
 - [Pull Request con GitHub Desktop](https://www.youtube.com/results?search_query=github+desktop+pull+request)
 
-Iniziamo.
+Utilizziamo il metodo più semplice e meno faticoso. Le Pull Request erano un opzione ma sono difficili da gestire se poi sono tante.
 
-## Condivisione
-
-Se vuoi condividi il tuo codice con gli altri.
-
-Il modo più semplice se hai appena iniziato ad utilizzare GitHub  
+1. Crea un [nuovo repository](https://github.com/new) pubblico e chiamalo: `advent-of-code` (se non l'hai già).
+2. Apri una [issue](https://github.com/unicam-campfire/advent-of-code/issues/new) inserendo il link al tuo repository. Sarai aggiunto come **submodule** nella directory `./src`.
