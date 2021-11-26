@@ -11,7 +11,7 @@ Se non conosci come funziona GitHub inizia con il guardare un paio di tutorial:
 
 - [GitHub Basics](https://www.youtube.com/results?search_query=github+guide)
 - [GitHub Desktop](https://www.youtube.com/results?search_query=github+desktop+tutorial)
-- [GitHub Issue](https://www.youtube.com/results?search_query=github+issue)
+- [GitHub Issues](https://www.youtube.com/results?search_query=github+issues)
 
 Utilizziamo il metodo più semplice e meno faticoso. Le Pull Request erano un opzione ma sono difficili da gestire se poi sono tante.
 
@@ -24,7 +24,7 @@ Si prega di aspettare almeno il giorno successivo prima di pushare la propria so
 
 ## Info
 
-Potete discutere sul topic di Advent Of Code in [questa chat su Gitter](https://gitter.im/unicam-campfire/advent-of-code?utm_source=share-link&utm_medium=link&utm_campaign=share-link), entra anche tu e scrivici: _ciao 👋!_. Ci sarà sempre qualcuno che avrà bisogno di aiuto e qualcuno che potrà darlo.
+Potete discutere sul topic di Advent Of Code in [questa chat su Gitter](https://gitter.im/unicam-campfire/advent-of-code?utm_source=share-link&utm_medium=link&utm_campaign=share-link), entra anche tu e scrivici: "ciao 👋". Ci sarà sempre qualcuno che avrà bisogno di aiuto e qualcuno che potrà darlo.
 
 È stata creata una classifica privata, dopo aver effettuato il login vai [qui](https://adventofcode.com/2021/leaderboard/private) e usa il codice: `1258516-13acf3a9` per entrare.
 
