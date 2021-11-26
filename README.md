@@ -30,6 +30,6 @@ Potete discutere sul topic di Advent Of Code in [questa chat su Gitter](https://
 
 Il codice condiviso dagli utenti si trova nella directory `./src`.
 
-Advent Of Code inizia il *1 dicembre* e finisce il *25 dicembre*. Durante questo periodo ogni giorno uscirà un puzzle. Non sarà necessario completare i puzzle dei giorni precedenti per sbloccare i successivi.
+Advent Of Code inizia il **1 dicembre** e finisce il **25 dicembre**. Durante questo periodo ogni giorno uscirà un puzzle. Non sarà necessario completare i puzzle dei giorni precedenti per sbloccare i successivi.
 
 Buona fortuna!! 🐱‍💻
